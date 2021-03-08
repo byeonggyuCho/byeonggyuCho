@@ -17,6 +17,6 @@
 ▪ 거주지: 서울시  
 📧 E-mail: byeonggyu303@gmail.com  
 ⚙️ Skill
-    - front: React(+Redux), Typescript, ES6+, Scss
-    - back: Node.js, Mysql, MongoDB
-    - etc: Git, Jenkins, Webpack, Babel
+- front: React(+Redux), Typescript, ES6+, Scss
+- back: Node.js, Mysql, MongoDB
+- etc: Git, Jenkins, Webpack, Babel
