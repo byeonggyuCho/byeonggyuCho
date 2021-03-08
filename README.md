@@ -15,7 +15,7 @@
 - 학력: 대졸 (한국교통대학교, 기계공학)
 - 병역: 육군 만기제대(11.09 ~ 13.06)
 - 거주지: 서울시
-- e-mail: byeonggyu303@gmail.com
+- e-mail: byeonggyu303@gmail.com  
 ⚙️Skill
   - front: React(+Redux), Typescript, ES6+, Scss
   - back: Node.js, Mysql, MongoDB
