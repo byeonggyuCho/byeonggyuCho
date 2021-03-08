@@ -16,6 +16,8 @@
 ✔ 병역: 육군 만기제대(11.09 ~ 13.06)  
 ✔ 거주지: 서울시  
 ✔ E-mail: byeonggyu303@gmail.com  
+
+
 ⚙️ **Skill**  
 💻front: React(+Redux), Typescript, ES6+, Scss  
 🖥 back: Node.js, Mysql, MongoDB  
