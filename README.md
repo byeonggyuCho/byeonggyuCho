@@ -19,6 +19,6 @@
 
 
 ⚙️ **Skill**  
-💻 front: React(+Redux), Typescript, ES6+, Scss  
-⌨ back: Node.js, Mysql, MongoDB  
-🔗 etc: Git, Webpack, Babel, Jenkin
+💻 **Front**: React(+Redux), Typescript, ES6+, Scss  
+⌨ **Back**: Node.js, Mysql, MongoDB  
+🔗 **Etc**: Git, Webpack, Babel, Jenkin
