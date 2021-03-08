@@ -6,7 +6,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-lightgrey)
 
 
-    사용자 경험 중심의 프러덕트, 확장성과 유연함을 갖춘 프로젝트를 제공하는 것에 관심이 있습니다.
+    사용자 경험 중심의 서비스와 확장성을 갖춘 유연한 제품을 제공하는 것에 관심이 있습니다.
     유연한 근무환경과 오픈 커뮤니케이션을 지향하며 `React`와 `Typescript`를 좋아합니다.  
     최근 데이터 시각화에 관심을 갖고 있습니다.
 
