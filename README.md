@@ -22,3 +22,6 @@
 💻 **Front**: React(+Redux), Typescript, ES6+, Scss  
 ⌨ **Back**: Node.js, Mysql, MongoDB  
 🔗 **Etc**: Git, Webpack, Babel, Jenkin
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CaterJo&repo=profile&theme=dracula)](https://github.com/CaterJo/profile)
