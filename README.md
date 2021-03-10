@@ -24,4 +24,4 @@
 🔗 **Etc**: Git, Webpack, Babel, Jenkin
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CaterJo&repo=profile&theme=dracula)](https://github.com/CaterJo/profile)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CaterJo&repo=Resume&theme=dracula)](https://github.com/CaterJo/Resume)
