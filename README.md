@@ -25,3 +25,6 @@
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CaterJo&repo=Resume&theme=dracula)](https://github.com/CaterJo/Resume)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CaterJo&repo=TIL&theme=dracula)](https://github.com/CaterJo/TIL)
+
+
