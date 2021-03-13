@@ -5,26 +5,25 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-lightgrey)
 
-
     사용자 경험 중심의 서비스와 확장성을 갖춘 유연한 제품을 제공하는 것에 관심이 있습니다.
-    유연한 근무환경과 오픈 커뮤니케이션을 지향하며 `React`와 `Typescript`를 좋아합니다.  
+    유연한 근무환경과 오픈 커뮤니케이션을 지향하며 `React`와 `Typescript`를 좋아합니다.
     최근 데이터 시각화에 관심을 갖고 있습니다.
 
 ✔ 생년: 1991  
-✔ 경력: 2018 ~   
+✔ 경력: 2018 ~  
 ✔ 학력: 대졸 (한국교통대학교, 기계공학)  
 ✔ 병역: 육군 만기제대(11.09 ~ 13.06)  
 ✔ 거주지: 서울시 동작구  
-✔ E-mail: byeonggyu303@gmail.com  
-
+✔ E-mail: byeonggyu303@gmail.com
 
 ⚙️ **Skill**  
 💻 **Front**: React(+Redux), Typescript, ES6+, Scss  
 ⌨ **Back**: Node.js, Mysql, MongoDB  
 🔗 **Etc**: Git, Webpack, Babel, Jenkin
 
+📄&nbsp;&nbsp;&nbsp;[Resume PDF](./resume/resume.pdf)  
+📄&nbsp;&nbsp;&nbsp;[Resume doc](./resume/resume.docx)  
+📄&nbsp;&nbsp;&nbsp;[Portfolio PDF](./resume/portfolio.pdf)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CaterJo&repo=Resume&theme=dracula)](https://github.com/CaterJo/Resume)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CaterJo&repo=TIL&theme=dracula)](https://github.com/CaterJo/TIL)
-
-
