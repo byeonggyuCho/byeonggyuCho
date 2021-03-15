@@ -5,10 +5,11 @@
 
 
 
+    사용자 경험 중심의 서비스와 확장성을 갖춘 유연한 제품을 제공하는 것에 관심이 있습니다.
+    유연한 근무환경과 오픈 커뮤니케이션을 지향하며 React와 Typescript를 좋아합니다.
+    최근 재사용성 높은 컴포넌트에 관심이 있습니다.
 
-<p align="center" border-radius='50%' overflow='hidden' border='1px solid red'>
-    <img src="./resource/profile.png" width="300" height="auto" >
-</p>
+
 
 ✔ 생년: 1991  
 ✔ 경력: 2018 ~  
@@ -19,15 +20,12 @@
 
 
 
-    사용자 경험 중심의 서비스와 확장성을 갖춘 유연한 제품을 제공하는 것에 관심이 있습니다.
-    유연한 근무환경과 오픈 커뮤니케이션을 지향하며 React와 Typescript를 좋아합니다.
-    최근 재사용성 높은 컴포넌트에 관심이 있습니다.
-
-
 ⚙️ **Skill**  
 💻 **Front**: React(+Redux), Typescript, ES6+, Scss  
 ⌨ **Back**: Node.js, Mysql, MongoDB  
 🔗 **Etc**: Git, Webpack, Babel, Jenkin
+
+
 
 ### 📕DOWNLOAD Resume
 
