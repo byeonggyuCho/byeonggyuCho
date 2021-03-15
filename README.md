@@ -1,13 +1,14 @@
 # 프론트엔드 개발자 조병규입니다.👋
 
-![HTML](https://img.shields.io/badge/HTML-Expert-orange)
-![CSS](https://img.shields.io/badge/CSS-Expert-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-lightgrey)
+![editedAt](https://img.shields.io/github/last-commit/CaterJo/resume?label=edited%20at)
+![status](https://img.shields.io/badge/status-OpenToWork-inactive)
 
-    사용자 경험 중심의 서비스와 확장성을 갖춘 유연한 제품을 제공하는 것에 관심이 있습니다.
-    유연한 근무환경과 오픈 커뮤니케이션을 지향하며 React와 Typescript를 좋아합니다.
-    최근 재사용성 높은 컴포넌트에 관심이 있습니다.
+
+
+
+<p align="center" border-radius='50%' overflow='hidden' border='1px solid red'>
+    <img src="./resource/profile.png" width="300" height="auto" >
+</p>
 
 ✔ 생년: 1991  
 ✔ 경력: 2018 ~  
@@ -15,6 +16,13 @@
 ✔ 병역: 육군 만기제대(11.09 ~ 13.06)  
 ✔ 거주지: 서울시 동작구  
 ✔ E-mail: byeonggyu303@gmail.com
+
+
+
+    사용자 경험 중심의 서비스와 확장성을 갖춘 유연한 제품을 제공하는 것에 관심이 있습니다.
+    유연한 근무환경과 오픈 커뮤니케이션을 지향하며 React와 Typescript를 좋아합니다.
+    최근 재사용성 높은 컴포넌트에 관심이 있습니다.
+
 
 ⚙️ **Skill**  
 💻 **Front**: React(+Redux), Typescript, ES6+, Scss  
