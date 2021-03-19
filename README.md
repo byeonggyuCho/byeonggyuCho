@@ -2,7 +2,7 @@
 
 ![editedAt](https://img.shields.io/github/last-commit/CaterJo/resume?label=edited%20at)
 ![status](https://img.shields.io/badge/status-OpenToWork-inactive)
-
+![view](https://komarev.com/ghpvc/?username=CaterJo&color=blue)
 
 
     사용자 경험 중심의 서비스와 확장성을 갖춘 유연한 제품을 제공하는 것에 관심이 있습니다.
