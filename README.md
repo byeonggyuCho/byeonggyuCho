@@ -4,7 +4,6 @@
 ![status](https://img.shields.io/badge/status-OpenToWork-inactive)
 ![view](https://komarev.com/ghpvc/?username=CaterJo&color=blue)  
 
-
 [![linkedIn](https://github.com/CaterJo/Resume/blob/master/resource/image/linkedin.svg)](https://www.linkedin.com/in/byeonggyu-cho303/)
 [![linkedIn](https://github.com/CaterJo/Resume/blob/master/resource/image/gmail.svg)](byeonggyu303@gmail.com)
 
