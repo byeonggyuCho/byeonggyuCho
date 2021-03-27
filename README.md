@@ -2,8 +2,11 @@
 
 ![editedAt](https://img.shields.io/github/last-commit/CaterJo/resume?label=edited%20at)
 ![status](https://img.shields.io/badge/status-OpenToWork-inactive)
-![view](https://komarev.com/ghpvc/?username=CaterJo&color=blue)
+![view](https://komarev.com/ghpvc/?username=CaterJo&color=blue)  
 
+
+[![linkedIn](https://github.com/CaterJo/Resume/blob/master/resource/image/linkedin.svg)](https://www.linkedin.com/in/byeonggyu-cho303/)
+[![linkedIn](https://github.com/CaterJo/Resume/blob/master/resource/image/gmail.svg)](byeonggyu303@gmail.com)
 
     사용자 경험 중심의 서비스와 확장성을 갖춘 유연한 제품을 제공하는 것에 관심이 있습니다.
     유연한 근무환경과 오픈 커뮤니케이션을 지향하며 React와 Typescript를 좋아합니다.
