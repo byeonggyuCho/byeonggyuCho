@@ -7,9 +7,8 @@
 [![Gmail](https://github.com/CaterJo/Resume/blob/master/resource/image/gmail.svg)](mailto:byeonggyu303@gmail.com)
 
 
-    사용자 경험 중심의 서비스와 확장성을 갖춘 유연한 제품을 제공하는 것에 관심이 있습니다.
-    유연한 근무환경과 오픈 커뮤니케이션을 지향하며 React와 Typescript를 좋아합니다.
-    최근 재사용성 높은 컴포넌트에 관심이 있습니다.
+        비지니스를 위한 개발과 관리비용을 최소화할 수 있는 제품을 기업에 제공하는 것을 핵심가치로 생각합니다.
+        투명한 커뮤니케이션을 지향하며 더 나은 개발문화를 위해 고민하고 행동합니다.
 
 
 
