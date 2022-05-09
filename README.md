@@ -34,5 +34,5 @@
 📄&nbsp;&nbsp;&nbsp;[Resume DOC](./resume/resume.docx)  
 📄&nbsp;&nbsp;&nbsp;[Portfolio PDF](./resume/portfolio.pdf)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CaterJo&repo=Resume&theme=dracula)](https://github.com/CaterJo/Resume)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CaterJo&repo=TIL&theme=dracula)](https://github.com/CaterJo/TIL)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=byeonggyuCho&repo=Resume&theme=dracula)](https://github.com/byeonggyuCho/Resume)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=byeonggyuCho&repo=TIL&theme=dracula)](https://github.com/byeonggyuCho/TIL)
